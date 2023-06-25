@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **selimcankurtaran1406@gmail.com**
 
-- 📄 Know about my experiences at [LinkedIn](https://www.linkedin.com/in/selimcankurtaran/)
+- 📄 Know about my experiences on my [LinkedIn account](https://www.linkedin.com/in/selimcankurtaran/)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
