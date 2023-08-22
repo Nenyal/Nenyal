@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
-<h3 align="center">Software Engineer</h3>
+<h3 align="center">A passionate Software Engineer</h3>
 
 - 🔭 I’m currently working on **Artificial Intelligence Developement and Data Science**
 
