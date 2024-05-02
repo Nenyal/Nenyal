@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Selim</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
-- 🔭 I’m currently working on **Artificial Intelligence Developement and Data Science**
+- 🔭 I’m currently working on **Backend Development with C# and Java**
 
 - 📫 How to reach me **selimcankurtaran1406@gmail.com**
 
