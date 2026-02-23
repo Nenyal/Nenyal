@@ -5,8 +5,6 @@
 - 🌱 Passionate about **Backend Development**, **Real-time Systems**, **Machine Learning**, and **System Architecture**.
 - 🛠️ Proficient in **.NET**, **Node.js**, **Next.js**, **TypeScript**, **C#**, and experienced with databases like **PostgreSQL**, **MS SQL**, and **MongoDB**.
 - ☁️ Familiar with **Azure DevOps**, **Docker**, and **CI/CD** pipelines for robust and scalable deployments.
-- 📫 Reach out at **selimcankurtaran1406@gmail.com**.
-- 🔗 Connect on [LinkedIn](https://linkedin.com/in/selimcankurtaran) and explore my projects on [GitHub](https://github.com/Nenyal).
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
